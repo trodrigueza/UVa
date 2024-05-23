@@ -1,0 +1,14 @@
+# Ignore compiled object files
+*.o
+
+# Ignore compiled binary files
+*.exe
+*.out
+*.in
+*.app
+
+# Ignore other typical C++ compiled artifacts
+*.gch
+*.pch
+
+*.txt
