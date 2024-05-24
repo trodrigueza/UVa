@@ -1,6 +1,10 @@
 # Ignore compiled object files
 *.o
 
+*
+!*/
+!*.*
+
 # Ignore compiled binary files
 *.exe
 *.out
