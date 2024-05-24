@@ -12,3 +12,6 @@
 *.pch
 
 *.txt
+
+p.cpp
+.DS_Store
